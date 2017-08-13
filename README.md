@@ -18,5 +18,3 @@
 > 3. 输入命令npm run dev
 > 4. 打开index.html
 
-* [演示地址](http://cs003.m2828.com/demo/360Search)
-
